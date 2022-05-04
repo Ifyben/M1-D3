@@ -17,6 +17,9 @@ console.log(string);
 const boolean = "BOOLEAN: it is a logical entity and can be either true or false"
 console.log(boolean); 
 
+const undefined = "UNDEFINED: undefined represents a value that doesn't exist yet(the variable has never been assigned any value). Each time you declare a variable, its content is undefined."
+console.log(undefined); 
+
 
 /* WRITE YOUR ANSWER HERE */
 
