@@ -20,6 +20,9 @@ console.log(boolean);
 const undefined = "UNDEFINED: undefined represents a value that doesn't exist yet(the variable has never been assigned any value). Each time you declare a variable, its content is undefined."
 console.log(undefined); 
 
+const null = "NULL: null represents an empty value(the variable contains nothing)."
+console.log(null); 
+
 
 /* WRITE YOUR ANSWER HERE */
 
