@@ -11,6 +11,12 @@ You can use the bash terminal, the VSCode terminal or the one embedded in your O
 /* EXERCISE 1
 Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old.
 */
+const string = "STRING: a string is a sequence of one or more characters that may consist of letters, numbers, or symbols. Strings in JavaScript are primitive data types and immutable, which means they are unchanging."
+console.log(string);    
+
+const boolean = "BOOLEAN: it is a logical entity and can be either true or false"
+console.log(boolean); 
+
 
 /* WRITE YOUR ANSWER HERE */
 
