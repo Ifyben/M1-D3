@@ -20,8 +20,11 @@ console.log(boolean);
 const undefined = "UNDEFINED: undefined represents a value that doesn't exist yet(the variable has never been assigned any value). Each time you declare a variable, its content is undefined."
 console.log(undefined); 
 
-const null = "NULL: null represents an empty value(the variable contains nothing)."
-console.log(null); 
+const nul = "NULL: null represents an empty value(the variable contains nothing)."
+console.log(nul); 
+
+const number = "NUMBER: it can be any number between -(2^53 - 1) and +(2^53 - 1). Special values exist such as +Infinity and -Infinity(to handle operations like 50/0 or -2/0). Other languages have different data types for integers, floating points, different precisions but JavaScript doesn't(it only provides an additional BigInt)."
+console.log(number); 
 
 
 /* WRITE YOUR ANSWER HERE */
