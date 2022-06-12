@@ -69,6 +69,10 @@ Create two variables: name1 and name2. name1 is equal to john, name2 is equal to
 Verify that name1 is different from name2. 
 Verify then, that name1 and name2 are equals if both lowercase (without changing the value of name2).
 */
+let name1 = "john"
+let name2 = "John" 
+console.log(name1 === name2);
+console.log(name1.toLowerCase === name2.toLowerCase);
 
 /* WRITE YOUR CODE HERE */
 
