@@ -69,18 +69,33 @@ Create two variables: name1 and name2. name1 is equal to john, name2 is equal to
 Verify that name1 is different from name2. 
 Verify then, that name1 and name2 are equals if both lowercase (without changing the value of name2).
 */
+
+/* WRITE YOUR CODE HERE */
+
 let name1 = "john"
 let name2 = "John" 
 console.log(name1 === name2);
 console.log(name1.toLowerCase === name2.toLowerCase);
 
-/* WRITE YOUR CODE HERE */
 
 /* EXERCISE 8
 Create a variable named x (its value must be less than 10). Write the code to print the literal value of x (ex.: if x is 1 print "one", if 5 print "five" etc.).
 */
 
 /* WRITE YOUR CODE HERE */
+x = 6
+switch (x) {
+    case 1: console.log("one"); break;
+    case 2: console.log("two"); break;
+    case 3: console.log("three"); break;
+    case 4: console.log("four"); break;
+    case 5: console.log("five"); break;
+    case 6: console.log("six"); break;
+    case 7: console.log("seven"); break;
+    case 8: console.log("eight"); break;
+    case 9: console.log("nine"); break;
+    default: console.log("This works for only numbers between 1 and 9 (included")
+}
 
 /* EXERCISE 9
 [Extra] Insert a value in a variable based on the resut of a ternary if (topic not covered during lesson, try to search it by yourself, tomorrow morning we'll discuss it together ;) )
