@@ -39,6 +39,7 @@ const variable = "VARIABLE: variables are containers for partially processed dat
 /* EXERCISE 3
 Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
+let result = 12 + 20
 
 /* WRITE YOUR CODE HERE */
 
