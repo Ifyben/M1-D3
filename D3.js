@@ -98,10 +98,11 @@ switch (x) {
 }
 
 /* EXERCISE 9
-[Extra] Insert a value in a variable based on the resut of a ternary if (topic not covered during lesson, try to search it by yourself, tomorrow morning we'll discuss it together ;) )
+[Extra] Insert a value in a variable based on the result of a ternary if (topic not covered during lesson, try to search it by yourself, tomorrow morning we'll discuss it together ;) )
 */
 
 /* WRITE YOUR CODE HERE */
+let tenaryExample = x > 10 ? true : false
 
 /* WHEN YOU ARE FINISHED
 Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
