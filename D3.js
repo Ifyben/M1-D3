@@ -46,6 +46,7 @@ let result = 12 + 20
 /* EXERCISE 4
 Create a variable named x containing the number 12.
 */
+let x = 12
 
 /* WRITE YOUR CODE HERE */
 
