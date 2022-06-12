@@ -32,6 +32,7 @@ console.log(number);
 /* EXERCISE 2
 Try to describe what a variable is, in your own words.
 */
+const variable = "VARIABLE: variables are containers for partially processed data. They have unique names, are totally reusable and have limited scope(they only exist in between their declaration and the completion of the related block of code."
 
 /* WRITE YOUR ANSWER HERE */
 
