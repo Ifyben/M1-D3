@@ -53,6 +53,7 @@ let x = 12
 /* EXERCISE 5
 Create a variable called name containing the string John Doe.
 */
+let name = "John Doe"
 
 /* WRITE YOUR CODE HERE */
 
