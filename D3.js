@@ -60,6 +60,7 @@ let name = "John Doe"
 /* EXERCISE 6
 Execute a subtraction between the number 12 and the variable x, which is storing the value 12.
 */
+let ex2result = 12 - x
 
 /* WRITE YOUR CODE HERE */
 
